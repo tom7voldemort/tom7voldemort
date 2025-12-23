@@ -7,7 +7,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,linux,raspberrypi,arduino,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,linux,php,raspberrypi,arduino,git" />
 </p>
 
 ---
