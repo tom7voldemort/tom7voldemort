@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TOM7%20PROJECTS%20REPOSITORIES&fontSize=40&fontAlignY=35&animation=twinkling"/>
 
 <h1 align="center">Hi, I'm TOM7</h1>
-<h3 align="center">Cybersecurity • Ethical Hacker • Firmware Developer</h3>
+<h3 align="center">Cyber Security • Ethical Hacker • Firmware Developer</h3>
 
 ---
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,linux,php,raspberrypi,arduino,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,linux,php,bash,raspberrypi,arduino,git" />
 </p>
 
 ---
