@@ -23,11 +23,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tom7voldemort&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom7voldemort&layout=compact&theme=tokyonight" height="165"/>
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/tom7voldemort?label=Followers&style=flat&color=blue"/>
   <img src="https://img.shields.io/github/stars/tom7voldemort?label=Total%20Stars&style=flat&color=yellow"/>
